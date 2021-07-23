@@ -1,4 +1,4 @@
-# Wealth Systems Quality Assurance Challenge
+# Copam QA Challenge
 Esse desafio tem por objetivo avaliar sua capacidade de analisar cenários de testes e de automatizá-los.
 Por se tratar de um desafio para todos os níveis, não se sinta preso em submeter a solução completa, envie o que conseguir fazer junto com suas considerações.
 Os desafios devem ser agrupados em um único projeto.
@@ -41,14 +41,15 @@ Valide o JSON schema e http code das respostas.
 Os itens abaixo não são obrigatórios.
 
 - Use Gherkin para descrição dos cenários de testes;
-- Para automação das funcionalides front-end, busque usar um framework JavaScript;
 - Utilize o Postman para automação da funcionalidade back-end;
 
+# Obrigatório
+
+- Para automação das funcionalides front-end, use o Selenium ou Cypress;
 
 # O que vamos avaliar
 - A estruturação e escrita dos cenários de testes;
 - Os cenários e validações das automações;
-- A utilização de padrões de projetos;
 - A estruturação do projeto;
 - Boas práticas de programação;
 
@@ -56,5 +57,8 @@ Os itens abaixo não são obrigatórios.
 # A apresentação do desafio
 - Crie um repositório para o projeto em sua conta pessoal no GitHub;
 - Crie um README.md com as instruções para a execução do projeto;
-- Nos envie o link do repositório via Plataforma GUPY por onde recebeu essas instruções.
+- Nos envie o link do repositório via e-mail.
+
+# Dúvidas?
+- Mande um email para filipe@copaminformatica.com.br
 
